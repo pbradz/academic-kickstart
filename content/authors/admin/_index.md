@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Patrick J. H. Bradley
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Bioinformatics Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Gladstone Institute of Data Science and Biotechnology
+  url: "https://www.gladstone.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Building computational tools to understand the human microbiome
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Metagenomics
+- Statistical Modeling
+- Microbial Evolution
+- Functional Genomics
+- Metabolism
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Molecular Biology
+    institution: Princeton University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: AB in Biology
+    institution: Harvard College
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,29 +46,25 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BradleyPH
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.co.uk/citations?user=8DyG8OQAAAAJ
+- icon: bitbucket
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://bitbucket.org/pbradz
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My current work in the Pollard Lab focuses on studying how the human microbiome contributes to health and disease, and why some microbes colonize us and others don't. Prior to joining Katie’s lab, I did my PhD work with Olga Troyanskaya, Josh Rabinowitz, and David Botstein at Princeton’s Lewis-Sigler Institute, where I focused on the regulation and evolution of microbial metabolism.
