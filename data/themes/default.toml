@@ -1,0 +1,18 @@
+# Theme metadata
+name = "pbradz"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2D804F"
+
+# Menu
+menu_primary = "#CE7B68"
+menu_text = "#fff"
+menu_text_active = "#FFCABE"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#E8F6D5"
+home_section_even = "#C0D3DC"
