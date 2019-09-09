@@ -9,6 +9,7 @@ tags = ["phylogenize","phylogenetic","microbiome","comparative","pipeline","QIIM
 doi = "10.1101/425231"
 url = "doi.org/10.1101/425231"
 url_preprint = "https://www.biorxiv.org/content/biorxiv/early/2019/05/30/425231.full-text.pdf"
+publication = "bioRxiv"
 [[url_custom]]
     name = "Run Phylogenize"
     url = "https://www.phylogenize.org"
