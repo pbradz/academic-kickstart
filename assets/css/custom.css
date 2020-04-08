@@ -1,0 +1,31 @@
+/* Necessary to use Karla properly */
+
+.navbar-light {
+	letter-spacing: -0.035em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	letter-spacing: -0.035em;
+}
+
+body.dark a {
+	color: #18cc61;
+}
+
+.dark .featurette-icon {
+	color: #18cc61;
+}
+
+.dark .btn {
+	color: #18cc61;
+}
+
+.dark a {
+	color: #18cc61;
+}
+.dark h3.article-title a:hover {
+	color: #18cc61;
+}
+.dark ul.share li i {
+	color: #18cc61;
+}
